@@ -94,7 +94,7 @@ The backend is responsible for authentication, products, cart operations, checko
 
 | Cart | Payment |
 |:---:|:---:|
-| <img src="docs/screenshots/cart.png" width="250"> | <img src="docs/screenshots/chapa.png" width="250"> |
+| <img src="docs/screenshots/carts.png" width="250"> | <img src="docs/screenshots/chapa.png" width="250"> |
 
 | Chapa | Payment Return |
 |:---:|:---:|
