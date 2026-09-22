@@ -1,0 +1,67 @@
+
+/laravel-backend/.env
+/laravel-backend/.env.*
+!/laravel-backend/.env.example
+
+/laravel-backend/vendor/
+/laravel-backend/node_modules/
+
+# Laravel runtime files
+/laravel-backend/storage/*.key
+/laravel-backend/storage/app/*
+/laravel-backend/storage/framework/cache/*
+/laravel-backend/storage/framework/sessions/*
+/laravel-backend/storage/framework/testing/*
+/laravel-backend/storage/framework/views/*
+/laravel-backend/storage/logs/*
+
+# Laravel cache
+/laravel-backend/bootstrap/cache/*.php
+
+# PHPUnit
+/laravel-backend/.phpunit.result.cache
+
+/reactnative-frontend/node_modules/
+
+# Expo
+/reactnative-frontend/.expo/
+/reactnative-frontend/dist/
+/reactnative-frontend/web-build/
+
+# Expo / React Native generated files
+/reactnative-frontend/.expo-shared/
+
+# Environment variables
+/reactnative-frontend/.env
+/reactnative-frontend/.env.*
+!/reactnative-frontend/.env.example
+
+# Metro
+/reactnative-frontend/.metro-health-check*
+
+# TypeScript
+/reactnative-frontend/*.tsbuildinfo
+
+# Native build directories
+/reactnative-frontend/android/.gradle/
+/reactnative-frontend/android/app/build/
+/reactnative-frontend/android/build/
+/reactnative-frontend/ios/build/
+
+
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.*
+
+# IDEs
+.idea/
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+
+# OS / editor temporary files
+*.swp
+*.swo
+*~
