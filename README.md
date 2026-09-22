@@ -1,4 +1,4 @@
-# Shopping Mobile App
+# React Native Laravel E-Commerce Mobile App
 
 A full-stack mobile shopping application built with **React Native + Expo** on the frontend and **Laravel REST API** on the backend.
 
