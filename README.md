@@ -111,8 +111,8 @@ The backend is responsible for authentication, products, cart operations, checko
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/elamany/chapa-ecommerce-mobile.git
-cd chapa-ecommerce-mobile
+git clone https://github.com/elamany/reactnative-laravel-ecommerce-mobile.git
+cd reactnative-laravel-ecommerce-mobile
 ```
 ## 2. Run the Laravel Backend
 
