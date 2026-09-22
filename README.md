@@ -88,7 +88,7 @@ The backend is responsible for authentication, products, cart operations, checko
 
 | Home | Product Detail |
 |:---:|:---:|
-| <img src="screenshots/home.png" width="250"> | <img src="docs/screenshots/productdetail.png" width="250"> |
+| <img src="docs/screenshots/home.png" width="250"> | <img src="docs/screenshots/productdetail.png" width="250"> |
 
 ## Cart & Payment
 
